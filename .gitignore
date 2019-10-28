@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pychache__
+mevenv
+db.Sqlite3
+/stataic
+.DS_Store
